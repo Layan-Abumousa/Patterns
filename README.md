@@ -34,6 +34,8 @@ Each file in this repository contains a unique pattern implemented in C++. The p
 |      22      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2022.png) |   
 |      23      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2023.png) |   
 |      24      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2024.png) |   
+|      25      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2025.png) |   
+|      26      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2026.png) |   
 
 
 Feel free to explore the patterns and use them as a reference or practice material. If you have any suggestions or would like to contribute your own patterns, we'd love to see your pull requests!
