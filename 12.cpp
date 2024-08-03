@@ -3,8 +3,8 @@ using namespace std;
 
 /* 
 
-	  *
-	*   *
+      *
+    *   *
   *       *
 * * * * * * *
 
