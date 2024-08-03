@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-/* 
+/*  
 
       0
     1 0 1
