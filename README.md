@@ -39,6 +39,7 @@ Each file in this repository contains a unique pattern implemented in C++. The p
 |      27      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2027.png) |   
 |      28      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2028.png) |   
 |      29      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2029.png) |   
+|      30      | ![Pattern 17](https://github.com/Layan-Abumousa/Patterns/blob/main/Pic/Frame%2030.png) |   
 
 
 
